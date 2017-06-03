@@ -10,5 +10,6 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [Unit-Level Performance Testing in Java)(May 11, 2017)](https://dzone.com/articles/unit-level-performance-testing-in-java)
 * [Getting Started With MongoDB, Node.js, and Restify)(May 25, 2017)](https://dzone.com/articles/getting-started-with-mongodb-nodejs-and-restify)
 * [Roughing It Dev Style: Coding Without a Computer)(April 19, 2017)](https://dev.to/chznbaum/roughing-it-dev-style-coding-without-a-computer)
-* [How to Query MongoDB® using Java)(June 03, 2017)](http://www.unityjdbc.com/doc/mongo/mongo_java_jdbc.php)
+* [How to Query MongoDB® using Java (June 03, 2017)](http://www.unityjdbc.com/doc/mongo/mongo_java_jdbc.php)
+* [Java + MongoDB hello world example (March 08, 2013)](http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/)
 
