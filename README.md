@@ -13,6 +13,8 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [How to Query MongoDB® using Java (June 03, 2017)](http://www.unityjdbc.com/doc/mongo/mongo_java_jdbc.php)
 * [Java + MongoDB hello world example (March 08, 2013)](http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/)
 * [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+* [IntegrationDatabase](https://martinfowler.com/bliki/IntegrationDatabase.html)
+
 
 
 
