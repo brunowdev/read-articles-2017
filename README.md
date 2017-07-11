@@ -16,6 +16,7 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [IntegrationDatabase](https://martinfowler.com/bliki/IntegrationDatabase.html)
 * [Introduction to D3.js](https://dzone.com/articles/introduction-to-d3js)
 * [7 JavaScript Libraries for Dashboards](https://dzone.com/articles/7-javascript-libraries-for-dashboards)
+* [20 Amazing Dashboard UI Designs](http://www.inscribemag.com/6328/20-amazing-dashboard-ui-designs/)
 
 
 
