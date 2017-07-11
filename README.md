@@ -15,7 +15,7 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 * [IntegrationDatabase](https://martinfowler.com/bliki/IntegrationDatabase.html)
 * [Introduction to D3.js](https://dzone.com/articles/introduction-to-d3js)
-
+* [7 JavaScript Libraries for Dashboards](https://dzone.com/articles/7-javascript-libraries-for-dashboards)
 
 
 
