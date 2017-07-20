@@ -18,6 +18,6 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [7 JavaScript Libraries for Dashboards](https://dzone.com/articles/7-javascript-libraries-for-dashboards)
 * [20 Amazing Dashboard UI Designs](http://www.inscribemag.com/6328/20-amazing-dashboard-ui-designs/)
 * [Groovy Makes Iteration Easy](http://naleid.com/blog/2008/12/01/groovy-makes-iteration-easy)
-
+* [Groovy Goodness: Revisited Getting the Sum of Items in a Collection](http://mrhaki.blogspot.com.br/2012/06/groovy-goodness-revisited-getting-sum.html)
 
 
