@@ -17,6 +17,7 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [Introduction to D3.js](https://dzone.com/articles/introduction-to-d3js)
 * [7 JavaScript Libraries for Dashboards](https://dzone.com/articles/7-javascript-libraries-for-dashboards)
 * [20 Amazing Dashboard UI Designs](http://www.inscribemag.com/6328/20-amazing-dashboard-ui-designs/)
+* [Groovy Makes Iteration Easy](http://naleid.com/blog/2008/12/01/groovy-makes-iteration-easy)
 
 
 
