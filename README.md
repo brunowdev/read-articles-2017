@@ -21,3 +21,5 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [Groovy Goodness: Revisited Getting the Sum of Items in a Collection](http://mrhaki.blogspot.com.br/2012/06/groovy-goodness-revisited-getting-sum.html)
 * [Benefits of Pure Functions: Easier to Test](http://blog.agiledeveloper.com/2016/01/benefits-of-pure-functions-offer.html)
 * [Upcoming Groovy goodness : automatic thread interruption](http://www.jroller.com/melix/entry/upcoming_groovy_goodness_automatic_thread)
+* [Monitoring Kafka: The Real-Time Ops Challenge](https://dzone.com/articles/monitoring-kafka-real-time-ops-challenge)
+
