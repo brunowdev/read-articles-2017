@@ -22,4 +22,6 @@ Este repositório contém os artigos lidos em 2017. Comecei a organizar meio atr
 * [Benefits of Pure Functions: Easier to Test](http://blog.agiledeveloper.com/2016/01/benefits-of-pure-functions-offer.html)
 * [Upcoming Groovy goodness : automatic thread interruption](http://www.jroller.com/melix/entry/upcoming_groovy_goodness_automatic_thread)
 * [Monitoring Kafka: The Real-Time Ops Challenge](https://dzone.com/articles/monitoring-kafka-real-time-ops-challenge)
+* [EJB Transaction Management](https://examples.javacodegeeks.com/enterprise-java/ejb3/transactions/ejb-transaction-management-example/)
+
 
